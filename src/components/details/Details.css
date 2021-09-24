@@ -1,0 +1,13 @@
+ul {
+	margin: 60px 0 0 0;
+	padding: 0;
+	list-style: none;
+}
+
+li {
+	margin-bottom: 20px;
+}
+
+h3 {
+	color: rgba(0, 181, 204, 1);
+}

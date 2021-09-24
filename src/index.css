@@ -1,5 +1,26 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.MuiDataGrid-row {
+	cursor: pointer;
+}
+
+h1,h2 {
+	text-align: center;
+	color: rgba(0, 181, 204, 1);
+}
+
+h2 {
+	font-size: 18px;
+}
+
+.MuiDataGrid-root {
+	margin-top: 50px;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+	font-weight: bold!important;
 }
